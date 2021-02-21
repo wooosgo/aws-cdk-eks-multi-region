@@ -31,8 +31,8 @@
     "@aws-cdk/aws-eks": "^1.79.0",
     "@aws-cdk/aws-iam": "^1.79.0",
     "@aws-cdk/core": "^1.79.0",
-    "fs": "0.0.1-security",
     "@types/js-yaml": "^3.12.5",
+    "fs": "0.0.1-security",
     "js-yaml": "^3.14.1",
     "source-map-support": "^0.5.16"
   }
